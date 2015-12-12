@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coming Soon"
+title:  "Coming Soon (+winter sale)"
 date:   2015-12-12 09:46:00
 categories: vps
 ---
