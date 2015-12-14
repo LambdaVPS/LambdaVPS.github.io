@@ -11,7 +11,7 @@ new subscribers in December 2015! Your discount will last as long as the machine
 Price table with discount:
 
 |1GB RAM|2GB RAM|4GB RAM|8GB RAM|
-|-------|-------|-------|-------|
+|:-----:|:-----:|:-----:|:-----:|
 |$5/mo  |$10/mo |$20/mo |$40/mo |
 
 # Current issues
