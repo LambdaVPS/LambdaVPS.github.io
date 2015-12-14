@@ -16,15 +16,11 @@ layout: page
 3. Prohibited Usage
 
     You agree that any of the below activities are considered prohibited usage and could result in immediate account suspension or cancellation without a refund and the possibility that LambdaVPS will impose fees, and/or pursue civil remedies without providing advance notice.
-    - **Misuse of System Resources:** Misuse of system resources, including but not limited to employing programs that consume excessive CPU time (outside of allotted CPU usage), network capacity, disk I/O (input/output) or storage space. You will be given a warning before suspension for misuse of resources occurs.
-
-    - **Unsolicited Communications:** Sending unsolicited bulk messages utilizing our network. Generating a significantly higher volume of outgoing e-mail than a normal user. Using a non-existent email return address. Open E-mail relaying. Sending out unsolicited email from any other network that points to a LambdaVPS server.
-
-    - **Access to Other Computers or Networks without Authorization:** Attempting unauthorized and/or illegal access of computers, networks and/or accounts not belonging to party seeking access. Any act which interferes with the services of another user or network. Any act relating to the circumvention of security measures.
-
-    - **Other Activities viewed as Illegal or Harmful:** Engaging in illegal activities or engaging in activities harmful to the operations of LambdaVPS or the customer.
-
-    - **Providing False Data on any Contract or Application:** including fraudulent use of credit card numbers.
+     - **Misuse of System Resources:** Misuse of system resources, including but not limited to employing programs that consume excessive CPU time (outside of allotted CPU usage), network capacity, disk I/O (input/output) or storage space. You will be given a warning before suspension for misuse of resources occurs.
+     - **Unsolicited Communications:** Sending unsolicited bulk messages utilizing our network. Generating a significantly higher volume of outgoing e-mail than a normal user. Using a non-existent email return address. Open E-mail relaying. Sending out unsolicited email from any other network that points to a LambdaVPS server.
+     - **Access to Other Computers or Networks without Authorization:** Attempting unauthorized and/or illegal access of computers, networks and/or accounts not belonging to party seeking access. Any act which interferes with the services of another user or network. Any act relating to the circumvention of security measures.
+     - **Other Activities viewed as Illegal or Harmful:** Engaging in illegal activities or engaging in activities harmful to the operations of LambdaVPS or the customer.
+     - **Providing False Data on any Contract or Application:** including fraudulent use of credit card numbers.
 
 4. Account Cancellation or Suspension
 
