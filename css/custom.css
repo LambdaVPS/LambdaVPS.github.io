@@ -1,3 +1,7 @@
 .excerpt {
   text-align: center;
 }
+
+header.major {
+  margin: 0;
+}
