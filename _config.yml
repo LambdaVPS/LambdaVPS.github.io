@@ -10,4 +10,6 @@ github_username:  LambdaVPS
 control-panel: https://lambdavps.myvirtkick.com/
 
 # Build settings
-markdown: redcarpet
+markdown: redcarpet\
+redcarpet:
+  extensions: ["tables"]
