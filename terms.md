@@ -59,15 +59,15 @@ layout: page
 
 10. Indemnity
 
-   You agree to defend, indemnify and hold harmless LambdaVPS, LLC, its officers, directors, employees and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees) arising from: (i) your use of and access to the LambdaVPS services; (ii) your violation of any term of this Agreement; (iii) your violation of any third party right, including without limitation any copyright, property, or privacy right; or (iv) any claim that use of our services caused damage to a third party. This defense and indemnification obligation will survive this Agreement and your use of the LambdaVPS services.
+    You agree to defend, indemnify and hold harmless LambdaVPS, LLC, its officers, directors, employees and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees) arising from: (i) your use of and access to the LambdaVPS services; (ii) your violation of any term of this Agreement; (iii) your violation of any third party right, including without limitation any copyright, property, or privacy right; or (iv) any claim that use of our services caused damage to a third party. This defense and indemnification obligation will survive this Agreement and your use of the LambdaVPS services.
 
 11. NOTICE
 
-   You agree that LambdaVPS may provide you with notices, including those regarding changes to the Terms of Service, by email, regular mail, or postings on LambdaVPS services.
+    You agree that LambdaVPS may provide you with notices, including those regarding changes to the Terms of Service, by email, regular mail, or postings on LambdaVPS services.
 
 12. GENERAL INFORMATION
 
-   Entire Agreement. The Terms of Service (including any policies, guidelines or amendments that may be presented to your from time to time) constitute the entire agreement between you and LambdaVPS and govern your use of LambdaVPS services, superceding any prior agreements between you and LambdaVPS for the use of LambdaVPS services. You also may be subject to additional terms and conditions that may apply when you use or purchase certain other LambdaVPS services, affiliate services, third-party content or third-party software.
+    Entire Agreement. The Terms of Service (including any policies, guidelines or amendments that may be presented to your from time to time) constitute the entire agreement between you and LambdaVPS and govern your use of LambdaVPS services, superceding any prior agreements between you and LambdaVPS for the use of LambdaVPS services. You also may be subject to additional terms and conditions that may apply when you use or purchase certain other LambdaVPS services, affiliate services, third-party content or third-party software.
 
    Choice of Law and Forum. The Terms of Service and the relationship between you and LambdaVPS shall be governed by the laws of the State of Minnesota without regard to its conflict of law provisions.
 
